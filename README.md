@@ -25,8 +25,8 @@ This repository contains an analysis of the Sample Superstore dataset, focusing 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sample-superstore-analysis.git
-   cd sample-superstore-analysis
+   git clone https://github.com/Skhem02/Superstore-Analysis-Project-under-IBM-Skillbuild-internship.git
+   cd Superstore-Analysis-Project-under-IBM-Skillbuild-internship
    ```
 
 2. **Install Dependencies:**
